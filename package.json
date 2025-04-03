@@ -3,7 +3,8 @@
   "main": "main.js",
   "license": "MIT",
   "scripts": {
-    "start": "electron ."
+    "start": "electron .",
+    "dev": "docker build -t ryanrgegoire ."
   },
   "dependencies": {
     "electron": "^35.1.3"

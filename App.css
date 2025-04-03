@@ -1,5 +1,5 @@
 body {
-  margin: 2rem;
+  margin: 1rem;
   background-color: #121212;
   font-family: sans-serif;
   border: 4px solid #101010;
@@ -8,17 +8,30 @@ body {
   color: white;
 }
 
+p {
+  padding: 20px;
+  position: relative;
+  top: 125px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 700;
+  font-family: sans-serif;
+}
+
 #pillLBL {
   color: #ccc;
   background-color: #232323;
   padding: 10px;
   border: none;
   outline: none;
+  margin: 1rem;
   text-transform: uppercase;
   /* border-radius: 10px; */
 }
 
 #coffeeLBL2 {
+  margin: 1rem;
   color: #ccc;
   background-color: #232323;
   padding: 10px;
@@ -35,6 +48,7 @@ body {
   border: none;
   outline: none;
   text-transform: uppercase;
+  margin: 1rem;
 }
 
 h2 {
