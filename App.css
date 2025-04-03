@@ -1,0 +1,44 @@
+body {
+  margin: 2rem;
+  background-color: #121212;
+  font-family: sans-serif;
+  border: 4px solid #101010;
+  padding: 10px;
+  overflow: hidden;
+  color: white;
+}
+
+#pillLBL {
+  color: #ccc;
+  background-color: #232323;
+  padding: 10px;
+  border: none;
+  outline: none;
+  text-transform: uppercase;
+  /* border-radius: 10px; */
+}
+
+#coffeeLBL2 {
+  color: #ccc;
+  background-color: #232323;
+  padding: 10px;
+  border: none;
+  outline: none;
+  text-transform: uppercase;
+  /* border-radius: 10px; */
+}
+
+#showerLBL {
+  color: #ccc;
+  background-color: #232323;
+  padding: 10px;
+  border: none;
+  outline: none;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-size: 20px;
+  position: relative;
+  bottom: 25px;
+}
